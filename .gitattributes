@@ -1,4 +1,6 @@
+# Specify Dart as the language
 *.dart linguist-language=Dart
-*.cpp linguist-detectable=false
+
+# Prevent CMake and C++ files from affecting language stats
 *.cmake linguist-detectable=false
-*.dart linguist-language=true
+*.cpp linguist-detectable=false
