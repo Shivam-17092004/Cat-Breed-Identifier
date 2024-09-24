@@ -1,0 +1,5 @@
+0 Ragdoll
+1 Persian
+2 Abyssinian
+3 American Curl
+4 American Shorthair
